@@ -1,0 +1,13 @@
+{
+    "name": "user/firebase-php-master",
+    "description": "firebase tutorial",
+    "authors": [
+        {
+            "name": "nitesh mangla",
+            "email": "nitesh@cyberworx.in"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "4.18"
+    }
+}
